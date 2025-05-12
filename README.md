@@ -8,7 +8,7 @@ This project is a simple web-based AI assistant powered by **OpenAI's GPT-4** an
 
 ## 🚀 Live Demo
 
-Check out the live version here: [https://your-vercel-project-url.vercel.app](https://your-vercel-project-url.vercel.app)
+Check out the live version here: [https://your-vercel-project-url.vercel.app]([https://your-vercel-project-url.vercel.app](https://v0.dev/chat/web-ai-assistant-Kbfi8AMfafw))
 
 ---
 
